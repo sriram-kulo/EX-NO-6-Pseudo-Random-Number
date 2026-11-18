@@ -40,3 +40,4 @@ int main(void)
 <img width="405" height="270" alt="image" src="https://github.com/user-attachments/assets/fc57b2d4-f8b4-46f3-bb4c-4107560502a8" />
 
 # RESULT:
+Thus, the implementation of pseudorandom number generation using standard library was executed successfully.
